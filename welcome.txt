@@ -1,2 +1,4 @@
 Hi welcome everyone to git. this is my second
 text file in git folder.
+git add .
+git commit -m .
