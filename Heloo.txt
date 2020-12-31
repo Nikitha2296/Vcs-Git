@@ -1,4 +1,1 @@
-heloo this is my first git program.hai
-
-git is vcs that records changes to a file.
-or set of files over time.
+heloo this is my first git program. 
